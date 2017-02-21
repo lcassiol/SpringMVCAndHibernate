@@ -4,10 +4,6 @@ This project was develop to show an example of Spring MVC and Hibernate, I used 
 
 
 
-
-
-
-
 --------------------------------------------------------------------------------------------------------------------
 During development was tested on SGBD postgresql.
 
